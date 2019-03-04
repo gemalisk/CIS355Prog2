@@ -12,7 +12,7 @@ class Database {
     // class Database code below copied from...
     // https://www.startutorial.com/articles/view/php-crud-tutorial-part-1
     
-    private static $dbName          = "projects" ;
+    private static $dbName          = "customers" ;
     private static $dbHost          = "localhost" ;
     private static $dbUsername      = "root";
     private static $dbUserPassword  = "";
